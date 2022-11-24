@@ -1,13 +1,14 @@
+/* Universal selector sets box size, padding and margin for the whole document */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* body selector contains bacground colour */
 body {
     background-color: #d9dcd6;
 }
-
+/* header setting, styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -43,7 +44,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* selector for background image */
 figure img {
     height: 800px;
     width: 100%;
@@ -68,7 +69,7 @@ main {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Aside element selector for styling */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -90,6 +91,7 @@ h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/* Section settings for images */
 section img {
     display: block;
     margin: 10px auto;
@@ -104,7 +106,7 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* setting for images for maximum height within main */
 main img {
     max-height: 200px;
     
@@ -113,7 +115,7 @@ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
