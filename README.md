@@ -24,10 +24,11 @@ Using more sementic elements in order to optimize for search engines, promoting 
 
 ## Deployed project
 https://cimsgit.github.io/Refactoring_Horiseon/ <hr>
-## Credits
+
+### Credits
 N/A
 <hr>
 
-## License
+### License
 
 [MIT LICENSE](./LICENSE)
