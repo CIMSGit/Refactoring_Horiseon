@@ -15,7 +15,7 @@ Using more sementic elements in order to optimize for search engines, promoting 
 ## Installation
 + No installation required.
 + Can be used on any general browser.
-+ For better user experience computer display screens are advised. 
++ For optimal user experience computer display screens are recommended. 
 <hr>
 
 ## Screenshot 
