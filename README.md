@@ -1,7 +1,7 @@
 # **Refactoring Horiseon**
 
 ## Description <hr> 
-The Horiseon project is about improving **accessibility** for visually impared.<br>
+The Horiseon project is about improving **accessibility** for the visually impared.<br>
 Using more sementic elements in order to optimize for search engines, promoting wider social media present. 
 <hr>
 
@@ -13,7 +13,7 @@ Using more sementic elements in order to optimize for search engines, promoting 
 <hr>
 
 ## Installation
-+ No installation needed.
++ No installation required.
 + Can be used on any general browser.
 + For better user experience computer display screens are advised. 
 <hr>
